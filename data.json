@@ -1,27 +1,9 @@
 {
 "data": {
 "match_id": "108578",
-"hometeam_score": "1",
-"awayteam_score": "0",
-"match_scores": "{\"localteam_score\":1,\"visitorteam_score\":0,\"localteam_pen_score\":null,\"visitorteam_pen_score\":null,\"ht_score\":\"0-0\",\"ft_score\":null,\"et_score\":null,\"ps_score\":null}",
-"start_time": "2022-09-23 19:00:00",
-"minute": "90",
-"added_time": "3",
-"injury_time": "0",
-"extra_minute": "0",
-"match_status": "LIVE",
-"home_team_api": "18620",
-"away_team_api": "18548",
+
 "list_events": "[{\"player_id\": 1945, \"player_name\": \"A. Mandi\", \"player_name_ar\": \"عيسى ماندي\", \"re_player_id\": 4423, \"related_player_name\": \"A. Bedrane\", \"related_player_name_ar\": \"عبدالقادر بدران\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"5\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 6237, \"player_name\": \"M. Belaïli\", \"player_name_ar\": \"يوسف بلايلي\", \"re_player_id\": 12690, \"related_player_name\": \"B. Brahimi\", \"related_player_name_ar\": \"بلال براهيمي\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"46\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 670, \"player_name\": \"R. Mahrez\", \"player_name_ar\": \"رياض محرز\", \"re_player_id\": 4524, \"related_player_name\": \"S. Bendebka\", \"related_player_name_ar\": \"سفيان بن دبكة\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"65\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 43624, \"player_name\": \"R. Zerrouki\", \"player_name_ar\": null, \"re_player_id\": 2505, \"related_player_name\": \"I. Bennacer\", \"related_player_name_ar\": \"إسماعيل بن ناصر\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"66\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 51551, \"player_name\": \"M. Amoura\", \"player_name_ar\": \"محمد عمورة\", \"re_player_id\": 2626, \"related_player_name\": \"A. Ounas\", \"related_player_name_ar\": \"آدم أوناس\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"72\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 967, \"player_name\": \"I. Slimani\", \"player_name_ar\": \"إسلام سليماني\", \"re_player_id\": 1324, \"related_player_name\": \"A. Delort\", \"related_player_name_ar\": \"أندي ديلورت\", \"type\": \"substitution\", \"team_id\": 18620, \"minute\": \"72\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 967, \"player_name\": \"I. Slimani\", \"player_name_ar\": \"إسلام سليماني\", \"re_player_id\": 670, \"related_player_name\": \"R. Mahrez\", \"related_player_name_ar\": \"رياض محرز\", \"type\": \"goal\", \"team_id\": 18620, \"minute\": \"78\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 4559, \"player_name\": \"M. Tougai\", \"player_name_ar\": \"محمد أمين\", \"re_player_id\": null, \"related_player_name\": null, \"related_player_name_ar\": null, \"type\": \"yellowcard\", \"team_id\": 18620, \"minute\": \"88\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 43624, \"player_name\": \"R. Zerrouki\", \"player_name_ar\": null, \"re_player_id\": null, \"related_player_name\": null, \"related_player_name_ar\": null, \"type\": \"yellowcard\", \"team_id\": 18620, \"minute\": \"89\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 145653, \"player_name\": \"C. Conde\", \"player_name_ar\": \"شيخ كوند\", \"re_player_id\": 2617, \"related_player_name\": \"A. Diawara\", \"related_player_name_ar\": \"أمادو دياوارا\", \"type\": \"substitution\", \"team_id\": 18548, \"minute\": \"60\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 107679, \"player_name\": \"B. Dansoko\", \"player_name_ar\": null, \"re_player_id\": 21960, \"related_player_name\": \"M. Bayo\", \"related_player_name_ar\": \"محمد بايو\", \"type\": \"substitution\", \"team_id\": 18548, \"minute\": \"70\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 97737, \"player_name\": \"A. Camara\", \"player_name_ar\": \"أغويبو كامارا\", \"re_player_id\": 23716, \"related_player_name\": \"M. Guilavogui\", \"related_player_name_ar\": null, \"type\": \"substitution\", \"team_id\": 18548, \"minute\": \"70\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": 112623, \"player_name\": \"T. Barry Arévalo\", \"player_name_ar\": null, \"re_player_id\": 39238, \"related_player_name\": \"M. Kourouma Kourouma\", \"related_player_name_ar\": \"إلياكس موريبا\", \"type\": \"substitution\", \"team_id\": 18548, \"minute\": \"83\", \"extra_minute\": null, \"cancel_event\": 0},{\"player_id\": null, \"player_name\": null, \"player_name_ar\": null, \"re_player_id\": null, \"related_player_name\": null, \"related_player_name_ar\": null, \"type\": \"yellowcard\", \"team_id\": 18548, \"minute\": \"88\", \"extra_minute\": null, \"cancel_event\": 0}]",
-"tv_stations": "[{\"name\": \"الجزائرية 6\", \"theme_color\": \"#1B1B1B\", \"commentators\": \"بلال بناري\", \"link\": null}]",
-"view_status": "live",
-"has_pen": "0",
-"round": null,
-"stagename": "Friendlies 1",
-"stagename_ar": "المباريات الودية 1",
-"venue_name": "Rades Stadium",
-"venue_name_ar": "الملعب الأولمبي برادس",
-"note": null
+
 },
 "information": []
 }
